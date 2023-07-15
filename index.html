@@ -49,7 +49,7 @@ const doPost=async(url, req)=>{
 }
 
 window.onload=async()=>{
-  const tMarkdown = await doGet("./portfolio.md");
+  const tMarkdown = await doGet("./readme.md");
   const hContent = await doPost("https://api.github.com/markdown", {"text": tMarkdown})
   const eContent = document.createElement("div");
   eContent.innerHTML=hContent;
