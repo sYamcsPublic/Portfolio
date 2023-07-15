@@ -7,10 +7,10 @@ C/Sやwebアプリの開発保守に従事し、日々業務改善に取り組�
 |実務年数|スキル
 |:-|:-
 |5年～|VBA、VBS、C、C++、COBOL、JAVA、Shell、Apache、Oracle、DB2、Linux(CentOS、RedHat、Ubuntu)、zOS
-|3年～|C#、HTML、JavaScript、CSS、Python、Ruby、PostgreSQL、Git、Subversion
-|実務なし|AWS、GAS、PHP、MySQL、SQLite
+|3年～|C#、HTML、JavaScript、CSS、Python、PostgreSQL、Git、Subversion、GAS
+|1年～|Ruby、PHP
 
-これらのスキルに加え、独学での勉強期間が長く、実務年数以上に他の方に教えることができるレベルです。（実際に教えています）
+これらのスキルは他の方に教えることができるレベルです。（実際に教えています）
 
 ## 作品紹介
 
