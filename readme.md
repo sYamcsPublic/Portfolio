@@ -6,8 +6,8 @@ C/Sやwebアプリの開発保守に従事し、日々業務改善に取り組�
 
 |実務年数|スキル
 |:-|:-
-|5年～|VBA、VBS、C、C++、COBOL、JAVA、Shell、Apache、Oracle、DB2、Linux(CentOS、RedHat、Ubuntu)、zOS
-|3年～|C#、HTML、JavaScript、CSS、Python、PostgreSQL、Git、Subversion、GAS
+|5年～|Excel、VBA、VBS、C、C++、COBOL、JAVA、Shell、DB2、zOS
+|3年～|GAS、C#、HTML、JavaScript、CSS、Python、PostgreSQL、Oracle、Apache、Linux(CentOS、RedHat、Ubuntu)、Git、Subversion
 |1年～|Ruby、PHP
 
 これらのスキルは他の方に教えることができるレベルです。（実際に教えています）
@@ -33,7 +33,7 @@ URL：https://ex2.sslab.top/
 
 開発言語等：Python、HTML/CSS/PureJS、PWA
 
-Mazeはクリアする度に形が変わる無限に続く迷路アプリで、子供向けに制作しました。Canvasを使ってスマートフォンやタブレットで操作できるようにしています。
+Mazeはクリアする度に形が変わる無限に続く迷路アプリで、子供向けに制作しました。スマートフォンやタブレットでの操作性を重視しています。
 
 ### SiriTori - 一人用のしりとりアプリ
 URL：https://syamcspublic.github.io/SiriTori/  
