@@ -54,6 +54,6 @@ Github：https://github.com/sYamcsPublic/ConsoleJS/
 ConsoleJSはwebアプリのデバッグを支援する独自のライブラリで、"console.log"をフックしてログを表示します。さらに、一部の機能(IndexedDB等)はデバッグ以外の用途にも利用できるようにしました。
 
 ## 最後に
-もし興味がございましたら syamcspublic+business@gmail.com までお気軽にお問い合わせください。なお、業務状況によっては返信に数日を要する場合がございますが、ご理解いただければ幸いです。
+もし興味がございましたら syamcspublic+business@gmail.com もしくは、[クラウドワークス](https://crowdworks.jp/) の [sYamcs](https://crowdworks.jp/public/employees/156976) までお気軽にお問い合わせください。
 
 最後まで読んでいただき、ありがとうございました！
