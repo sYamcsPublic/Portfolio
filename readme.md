@@ -40,7 +40,7 @@ URL：https://syamcspublic.github.io/SiriTori/
 
 Github：https://github.com/sYamcsPublic/SiriTori/
 
-開発言語等：GAS、HTML/CSS/PureJS、PWA
+開発言語等：Google Apps Script (GAS)、HTML/CSS/PureJS、PWA
 
 SiriToriは一人用のしりとりアプリで、子供向けに使いやすいUIを重視しています。GASを使用して定期的にGoogleサジェストからしりとりのネタを収集しています。
 
@@ -49,11 +49,22 @@ URL：https://syamcspublic.github.io/ConsoleJS/
 
 Github：https://github.com/sYamcsPublic/ConsoleJS/
 
-開発言語等：GAS、HTML/CSS/PureJS、PWA
+開発言語等：Google Apps Script (GAS)、HTML/CSS/PureJS、PWA
 
 ConsoleJSはwebアプリのデバッグを支援する独自のライブラリで、"console.log"をフックしてログを表示します。さらに、一部の機能(IndexedDB等)はデバッグ以外の用途にも利用できるようにしました。
+
+### YouTubeTool - YouTube情報の取得
+
+デモ版をご覧いただくには[こちらのリンク](https://docs.google.com/spreadsheets/d/1gqsHAIswcyhJtCK5gZ05JnLJlLXTB3L9hXpDAm9bITQ/edit#gid=0)をご参照ください。
+
+開発言語等: Google Apps Script (GAS)、Googleスプレッドシート
+
+YouTubeToolはYouTubeのチャンネルURLからチャンネル情報や動画情報を取得して、Googleスプレッドシートに出力するツールです。デモ版では一部の機能を制限していますが、導入をご検討される際はお気軽にご連絡ください。
+
 
 ## 最後に
 もし興味がございましたら syamcspublic+business@gmail.com もしくは、[クラウドワークス](https://crowdworks.jp/) の [sYamcs](https://crowdworks.jp/public/employees/156976) までお気軽にお問い合わせください。
 
 最後まで読んでいただき、ありがとうございました！
+
+
