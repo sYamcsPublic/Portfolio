@@ -55,7 +55,7 @@ ConsoleJSはwebアプリのデバッグを支援する独自のライブラリ�
 
 ### YouTubeTool - YouTube情報の取得
 
-デモ版をご覧いただくには[こちらのリンク](https://docs.google.com/spreadsheets/d/1gqsHAIswcyhJtCK5gZ05JnLJlLXTB3L9hXpDAm9bITQ/edit#gid=0)をご参照ください。
+デモ版をご覧いただくには[こちらのリンク](https://docs.google.com/spreadsheets/d/1gqsHAIswcyhJtCK5gZ05JnLJlLXTB3L9hXpDAm9bITQ/edit#gid=0)をパソコンからご参照ください。（スマートフォンから参照することも可能ですが、スプレッドシートの特性により正常に動作しない可能性がございます）
 
 開発言語等: Google Apps Script (GAS)、Googleスプレッドシート
 
