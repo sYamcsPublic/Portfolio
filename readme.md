@@ -14,10 +14,17 @@ C/Sやwebアプリの開発保守に従事し、日々業務改善に取り組�
 
 ## 作品紹介
 
+### Memorize - 暗記をサポートする学習アプリ
+URL：https://memorize.pekemalu.workers.dev/
+
+開発言語等：Cloudflare(Workers, KV)、Google Apps Script (GAS)、Gemini、React(PWA)
+
+Memorizeは、効率的な暗記をサポートする学習アプリです。小学生から社会人の学びなおしまで、幅広い層をターゲットとしています。パソコン・スマートフォンなどデバイスを選ばず、スキマ時間で手軽に学習できるよう設計しています。
+
 ### Maze - 無限に続く迷路アプリ
 URL：https://maze-28d.pages.dev/
 
-開発言語等：Cloudflare、HTML/CSS/PureJS、PWA
+開発言語等：Cloudflare(Pages, KV)、HTML/CSS/PureJS、PWA
 
 Mazeはクリアする度に形が変わる無限に続く迷路アプリで、子供向けに制作しました。スマートフォンやタブレットでの操作性を重視しています。
 
