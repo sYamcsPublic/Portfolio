@@ -6,7 +6,7 @@ C/Sやwebアプリの開発保守に従事し、日々業務改善に取り組�
 
 |実務年数|開発言語などのスキル
 |:-|:-
-|5年～|GAS、HTML、JavaScript、CSS、Excel、VBA、VBS、C、C++、C#、COBOL、JAVA、Shell、DB2、zOS
+|5年～|GAS、HTML、CSS、JavaScript、Excel、VBA、VBS、C、C++、C#、COBOL、JAVA、Shell、DB2、zOS
 |3年～|Python、PostgreSQL、Oracle、Apache、Linux(CentOS、RedHat、Ubuntu)、Git、Subversion
 |1年～|Ruby、PHP、TypeScript、React、Angular、Cloudflare
 
