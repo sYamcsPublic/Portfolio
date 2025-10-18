@@ -2,36 +2,22 @@
 
 C/Sやwebアプリの開発保守に従事し、日々業務改善に取り組んでいるエンジニアです。バックエンドを中心に、フロントエンドやインフラを含め、幅広い経験を積んでいます。
 
-## スキルと経験
+## 開発言語などのスキルと経験
 
-|実務年数|スキル
+|実務年数|開発言語などのスキル
 |:-|:-
-|5年～|Excel、VBA、VBS、C、C++、COBOL、JAVA、Shell、DB2、zOS
-|3年～|GAS、C#、HTML、JavaScript、CSS、Python、PostgreSQL、Oracle、Apache、Linux(CentOS、RedHat、Ubuntu)、Git、Subversion
-|1年～|Ruby、PHP
+|5年～|GAS、HTML、JavaScript、CSS、Excel、VBA、VBS、C、C++、C#、COBOL、JAVA、Shell、DB2、zOS
+|3年～|Python、PostgreSQL、Oracle、Apache、Linux(CentOS、RedHat、Ubuntu)、Git、Subversion
+|1年～|Ruby、PHP、TypeScript、React、Angular、Cloudflare
 
 これらのスキルは他の方に教えることができるレベルです。（実際に教えています）
 
 ## 作品紹介
 
-### faiChat - AIチャットアプリ
-URL：https://sslab.top/faichat/
-
-開発言語等：Python(Django)、HTML/CSS/PureJS  
-
-faiChatは[A3RT](https://a3rt.recruit.co.jp/)を活用して作成したAIチャットアプリです。会話内容とフィードバックロジックを微調整して、徐々にユーザーに合った回答が得られるようになります。
-
-### Memo - シンプルなメモアプリ
-URL：https://ex1.sslab.top/
-
-開発言語等：Python、HTML/CSS/PureJS、PWA
-
-Memoは[bulma](https://bulma.io/)を使って作成したシンプルな1枚のメモアプリです。オフラインで利用できるPWAの基礎を学ぶために制作し、異なる端末間でのデータ引継ぎを容易にしています。
-
 ### Maze - 無限に続く迷路アプリ
-URL：https://ex2.sslab.top/
+URL：https://maze-28d.pages.dev/
 
-開発言語等：Python、HTML/CSS/PureJS、PWA
+開発言語等：Cloudflare、HTML/CSS/PureJS、PWA
 
 Mazeはクリアする度に形が変わる無限に続く迷路アプリで、子供向けに制作しました。スマートフォンやタブレットでの操作性を重視しています。
 
@@ -60,7 +46,6 @@ ConsoleJSはwebアプリのデバッグを支援する独自のライブラリ�
 開発言語等: Google Apps Script (GAS)、Googleスプレッドシート
 
 YouTubeToolはYouTubeのチャンネルURLからチャンネル情報や動画情報を取得して、Googleスプレッドシートに出力するツールです。デモ版では一部の機能を制限していますが、導入をご検討される際はお気軽にご連絡ください。
-
 
 ## 最後に
 もし興味がございましたら syamcspublic+business@gmail.com もしくは、[クラウドワークス](https://crowdworks.jp/) の [sYamcs](https://crowdworks.jp/public/employees/156976) までお気軽にお問い合わせください。
