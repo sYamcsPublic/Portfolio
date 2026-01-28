@@ -42,7 +42,7 @@ URL：https://syamcspublic.github.io/ConsoleJS/
 
 Github：https://github.com/sYamcsPublic/ConsoleJS/
 
-開発言語等：Google Apps Script (GAS)、HTML/CSS/PureJS、PWA
+開発言語等：~Google Apps Script (GAS)~、Google Identity Services (GIS)、HTML/CSS/PureJS、PWA
 
 ConsoleJSはwebアプリのデバッグを支援する独自のライブラリで、"console.log"をフックしてログを表示します。さらに、一部の機能(IndexedDB等)はデバッグ以外の用途にも利用できるようにしました。
 
