@@ -19,7 +19,7 @@ URL：https://docsreader4eh.syamcspublic.workers.dev/
 
 Github：https://github.com/sYamcsPublic/DocsReader4EH
 
-開発言語等：Cloudflare Workers、HTML/CSS/VanillaJavaScript、Google Drive API、Google Docs API、PWA
+開発言語等：Cloudflare Workers、React、TailwindCSS、Google Identity Services (GIS)、Google Drive API、Google Docs API、PWA、(Google Apps Script (GAS))
 
 Docs Reader for EvenHubは、Even Realities G2スマートグラス上でGoogleドキュメントを快適に閲覧するための読書支援アプリです。Google Drive内の特定フォルダに保存されたGoogleドキュメントを取得し、テキスト情報をスマートグラス向けに最適化して表示します。自動スクロール・自動更新機能を備え、日本語・英語のマルチバイト文字にも対応しています。PWAとして実装しており、スマートフォンやPCからの導入性も高く、ウェアラブルデバイス連携を意識したUI/UX設計を意識して開発しました。
 
