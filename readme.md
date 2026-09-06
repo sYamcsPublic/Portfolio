@@ -14,6 +14,18 @@ C/Sやwebアプリの開発保守に従事し、日々業務改善に取り組�
 
 ## 作品紹介
 
+### HomePilot - PCをスマートグラスやスマートフォンから操作する統合型PWA
+
+URL：https://github.com/sYamcsPublic/HomePilot
+
+開発言語等：React、TypeScript、Vite、PWA、Cloudflare Workers、Cloudflare Tunnel、Node.js、OpenCode、EvenHub SDK、Even Realities G2
+
+HomePilotは、自宅PCのファイル操作とAI Agentを、パソコン・スマートフォン・Even Realities G2スマートグラスから利用できるようにした統合型PWAです。PC上のファイルをスマートフォンやスマートグラスから閲覧・操作できるExplorer機能に加え、OpenCodeと連携したAI Agentによるファイル操作や対話機能を実装しています。
+
+PC上で動作するGatewayとCloudflare Tunnelを組み合わせることで、自宅PCのファイルシステムへ外部デバイスから安全にアクセスできる構成とし、PC・スマートフォン・スマートグラスという異なるデバイス間でAgentのセッションや状態を共有できるよう設計しています。また、音声入力にも対応し、スマートフォンおよびEven Realities G2からAI Agentとの対話が可能です。
+
+実際の開発では、ChatGPTを設計・調査・デバッグ・実装方針の検討に活用し、OpenCode/MiMoによるコード実装と、自身によるビルド・実機検証を組み合わせたAI支援開発を実践しています。
+
 ### Docs Reader for EvenHub - Googleドキュメント専用のスマートグラス向け読書アプリ
 URL：https://docsreader4eh.syamcspublic.workers.dev/
 
@@ -22,7 +34,6 @@ Github：https://github.com/sYamcsPublic/DocsReader4EH
 開発言語等：Cloudflare Workers、React、TailwindCSS、Google Identity Services (GIS)、Google Drive API、Google Docs API、PWA、(Google Apps Script (GAS))
 
 Docs Reader for EvenHubは、Even Realities G2スマートグラス上でGoogleドキュメントを快適に閲覧するための読書支援アプリです。Google Drive内の特定フォルダに保存されたGoogleドキュメントを取得し、テキスト情報をスマートグラス向けに最適化して表示します。自動スクロール・自動更新機能を備え、日本語・英語のマルチバイト文字にも対応しています。PWAとして実装しており、スマートフォンやPCからの導入性も高く、ウェアラブルデバイス連携を意識したUI/UX設計を意識して開発しました。
-
 
 ### Memorize - 暗記をサポートする学習アプリ
 URL：https://memorize.pekemalu.workers.dev/
