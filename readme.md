@@ -16,7 +16,7 @@ C/Sやwebアプリの開発保守に従事し、日々業務改善に取り組�
 
 ### HomePilot - PCをスマートグラスやスマートフォンから操作する統合型PWA
 
-URL：https://github.com/sYamcsPublic/HomePilot
+Github：https://github.com/sYamcsPublic/HomePilot
 
 開発言語等：React、TypeScript、Vite、PWA、Cloudflare Workers、Cloudflare Tunnel、Node.js、OpenCode、EvenHub SDK、Even Realities G2
 
